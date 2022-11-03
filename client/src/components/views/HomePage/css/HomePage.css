@@ -1,0 +1,88 @@
+@media(max-width: 1920px) {
+    .banner1 {
+        Height: 665px;
+        background: url(./banner1.png) no-repeat;
+        background-size: contain;
+        margin-top: 20px;
+    }
+    
+    .banner2 {
+        Height: 665px;
+        background: url(./banner2.png) no-repeat;
+        background-size: contain;
+        margin-top: 20px;
+    }
+    
+    .banner3 {
+        Height: 665px;
+        background: url(./banner3.png) no-repeat;
+        background-size: contain;
+        margin-top: 20px;
+    }
+}
+@media(max-width: 1200px) {
+    .banner1 {
+        Height: 415px;
+        background: url(./banner1.png) no-repeat;
+        background-size: contain;
+        margin-top: 20px;
+    }
+    
+    .banner2 {
+        Height: 415px;
+        background: url(./banner2.png) no-repeat;
+        background-size: contain;
+        margin-top: 20px;
+    }
+    
+    .banner3 {
+        Height: 415px;
+        background: url(./banner3.png) no-repeat;
+        background-size: contain;
+        margin-top: 20px;
+    }
+}
+@media(max-width: 768px) {
+    .banner1 {
+        Height: 266px;
+        background: url(./banner1.png) no-repeat;
+        background-size: contain;
+        margin-top: 20px;
+    }
+    
+    .banner2 {
+        Height: 266px;
+        background: url(./banner2.png) no-repeat;
+        background-size: contain;
+        margin-top: 20px;
+    }
+    
+    .banner3 {
+        Height: 266px;
+        background: url(./banner3.png) no-repeat;
+        background-size: contain;
+        margin-top: 20px;
+    }
+}
+@media(max-width: 320px) {
+    .banner1 {
+        Height: 110px;
+        background: url(./banner1.png) no-repeat;
+        background-size: contain;
+        margin-top: 20px;
+    }
+    
+    .banner2 {
+        Height: 110px;
+        background: url(./banner2.png) no-repeat;
+        background-size: contain;
+        margin-top: 20px;
+    }
+    
+    .banner3 {
+        Height: 110px;
+        background: url(./banner3.png) no-repeat;
+        background-size: contain;
+        margin-top: 20px;
+    }
+}
